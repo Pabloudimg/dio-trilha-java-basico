@@ -23,7 +23,7 @@ public class ContaTerminal {
         System.out.println("Por favor, digite o seu nome completo:");
         NomeCliente = sc.nextLine(); //vai retornar o conteúdo da linha inteira, mesmo contendo espaços
 
-        //outra opçlão seria ter a variável Nome e Sobrenome e então realizar concatenação em NomeCliente
+        //outra opção seria ter a variável Nome e Sobrenome e então realizar concatenação em NomeCliente
 
         //System.out.println("Por favor, digite seu primeiro nome:");
         //Nome = sc.next();
